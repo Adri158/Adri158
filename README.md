@@ -8,7 +8,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" />
 
-<a href="https://kelompok6.my.id"><img src="https://api.kelompok6.my.id/api/waktu" alt="Waktu WITA" /></a>
+<a href="https://kelompok6.my.id"><img src="https://kelompok6.my.id/api/waktu" alt="Waktu WITA" /></a>
 
 <div>
 
