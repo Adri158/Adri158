@@ -221,6 +221,31 @@ ESP32 ──── DHT11       (suhu & kelembaban udara)
 
 ---
 
+## ⟨ ⭐ SUPPORT ⟩
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  kalau projek gw berguna atau sekadar mau support...         ║
+║  ─────────────────────────────────────────────────────────   ║
+║  ⭐  kasih star di repo — gratis, 1 detik, sangat berarti    ║
+║  🍴  fork kalau mau modif atau jadiin base projek kamu       ║
+║  🐛  nemuin bug? buka Issue — semua dibaca                   ║
+║  💡  ada ide fitur? request di Issues juga boleh             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Star Smart Garden](https://img.shields.io/github/stars/Adri158/smart-garden?style=for-the-badge&logo=github&color=f59e0b&labelColor=0a0a1a&label=⭐%20STAR%20SMART%20GARDEN)](https://github.com/Adri158/smart-garden/stargazers)
+&nbsp;
+[![Fork](https://img.shields.io/github/forks/Adri158/smart-garden?style=for-the-badge&logo=github&color=4ade80&labelColor=0a0a1a&label=🍴%20FORK)](https://github.com/Adri158/smart-garden/fork)
+&nbsp;
+[![Issues](https://img.shields.io/github/issues/Adri158/smart-garden?style=for-the-badge&logo=github&color=60a5fa&labelColor=0a0a1a&label=🐛%20ISSUES)](https://github.com/Adri158/smart-garden/issues)
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3500&pause=500&color=475569&center=true&vCenter=true&width=500&lines=thanks+for+visiting+◈;keep+building%2C+keep+shipping+◈;see+you+on+the+next+commit+◈" />
