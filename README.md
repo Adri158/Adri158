@@ -12,14 +12,14 @@
 
 ```
 ╔═══════════════════════════════════════════════╗
-║  > whoami                                     ║
-║    Untung Adriansyah — SMK Siswa & Developer  ║
-║  > location                                   ║
+║  > siapa                                      ║
+║    Untung Adriansyah — Siswa SMK & Developer  ║
+║  > lokasi                                     ║
 ║    Indonesia 🇮🇩                               ║
-║  > currently_hacking_on                       ║
+║  > lagi ngerjain                              ║
 ║    🌱 Smart Garden IoT Dashboard              ║
 ║  > status                                     ║
-║    [████████████░░░░] building...             ║
+║    [████████████░░░░] masih building...       ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -28,22 +28,22 @@
 <br clear="right"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=ESP32+%2B+MQTT+%2B+React+%3D+smart+garden+%F0%9F%8C%B1;soldering+at+2am+%E2%98%95%F0%9F%8E%B5;sensor+offline...+cek+kabel+dulu+woy;lofi+beats+%2B+dark+mode+%2B+kopi+hitam;it+works+on+my+machine%E2%84%A2;git+commit+-m+%22fix+everything%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=ESP32+%2B+MQTT+%2B+React+%3D+smart+garden+%F0%9F%8C%B1;soldering+jam+2+malem+%E2%98%95%F0%9F%8E%B5;sensor+offline...+cek+kabel+dulu+woy;lofi+beats+%2B+dark+mode+%2B+kopi+hitam;works+di+komputer+gw%E2%84%A2;git+commit+-m+%22fix+semuanya%22" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎧 Vibe Coding Mode
+## 🎧 Mode Vibe Coding
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────┐
-│  🎵 Now vibing to: Lo-Fi Hip Hop Radio      │
-│  🕐 02:47 AM                                │
-│  ☕ Coffee count: 3                         │
-│  💻 Lines written tonight: who knows        │
-│  🐛 Bugs fixed: 2   Bugs created: 5        │
+│  🎵 Lagi dengerin: Lo-Fi Hip Hop Radio      │
+│  🕐 02:47 Malem                             │
+│  ☕ Udah ngopi: 3x                          │
+│  💻 Baris yang ditulis malem ini: siapa tau │
+│  🐛 Bug difix: 2   Bug baru: 5             │
 └─────────────────────────────────────────────┘
 ```
 
@@ -55,17 +55,17 @@
 
 ---
 
-## ⚡ Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-| Layer | Tech |
+| Layer | Teknologi |
 |---|---|
 | 🖥️ Frontend | React · Vite · Redux · Chart.js |
 | 🔧 Backend | Node.js · Laravel · PHP · Express |
 | 📡 IoT | ESP32 · Arduino · MQTT · Mosquitto |
 | 🗄️ Database | MariaDB · MySQL |
-| 🏗️ Infra | Linux · Apache · Cloudflare Tunnel |
+| 🏗️ Infrastruktur | Linux · Apache · Cloudflare Tunnel |
 
 <br>
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 🌱 Project: Smart Garden
+## 🌱 Proyek: Smart Garden
 
 <div align="center">
 
@@ -84,20 +84,20 @@
 </div>
 
 ```
-ESP32 ──── DHT11 (suhu & kelembaban)
+ESP32 ──── DHT11 (suhu & kelembaban udara)
      ├──── DS18B20 (suhu air)
-     ├──── Soil Sensor (kelembaban tanah)
+     ├──── Sensor Tanah (kelembaban tanah)
      ├──── Relay (pompa air)
      └──── MQTT TCP ──── Mosquitto Broker
                     ├──── Node.js API ──── MariaDB
-                    └──── React Dashboard (real-time WSS)
+                    └──── Dashboard React (real-time WSS)
 ```
 
 🔗 Live: [kelompok6.my.id](https://kelompok6.my.id)
 
 ---
 
-## 📊 Stats
+## 📊 Statistik
 
 <div align="center">
 
@@ -110,7 +110,7 @@ ESP32 ──── DHT11 (suhu & kelembaban)
 
 ---
 
-## 📈 Activity
+## 📈 Aktivitas
 
 <div align="center">
 
@@ -120,7 +120,7 @@ ESP32 ──── DHT11 (suhu & kelembaban)
 
 ---
 
-## 🗃️ Summary
+## 🗃️ Ringkasan
 
 <div align="center">
 
@@ -135,7 +135,7 @@ ESP32 ──── DHT11 (suhu & kelembaban)
 
 ---
 
-## 🐍 Contributions
+## 🐍 Kontribusi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake-dark.svg" />
@@ -145,11 +145,11 @@ ESP32 ──── DHT11 (suhu & kelembaban)
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trofi
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Adri158&theme=darkhub&no-frame=true&margin-w=4&column=7)
+![Trofi](https://github-profile-trophy.vercel.app/?username=Adri158&theme=darkhub&no-frame=true&margin-w=4&column=7)
 
 </div>
 
@@ -157,9 +157,9 @@ ESP32 ──── DHT11 (suhu & kelembaban)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adri158&color=22d3ee&style=flat-square&label=views)
+![Jumlah Pengunjung](https://komarev.com/ghpvc/?username=Adri158&color=22d3ee&style=flat-square&label=pengunjung)
 
-*built with ☕ + 🎧 at 2am*
+*dibuat pake ☕ + 🎧 jam 2 malem*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=100&section=footer" />
 
