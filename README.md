@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:0d0d2e,100:0a0a1a&height=200&text=ADRI158&fontSize=78&fontColor=00d4ff&animation=twinkling&fontAlignY=60&desc=◈%20IoT%20◈%20Embedded%20◈%20Web%20◈&descColor=a855f7&descSize=20&descAlignY=80&stroke=00d4ff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d0d2e,60:130030,100:0a0a1a&height=220&text=ADRI158&fontSize=82&fontColor=00d4ff&animation=twinkling&fontAlignY=62&desc=◈%20IoT%20◈%20Embedded%20◈%20Web%20◈&descColor=a855f7&descSize=20&descAlignY=80&stroke=00d4ff&strokeWidth=2" />
 
 </div>
 
-<br>
+---
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-<div>
 
 ```
 ◆──────────────────────────────────────────────◆
@@ -16,56 +14,62 @@
   ▸ KELAS      : Siswa SMK & Developer
   ▸ LOKASI     : Indonesia 🇮🇩
   ▸ PROYEK     : Smart Garden IoT Dashboard
-  ▸ STATUS     : ██████████████░░  online
-  ▸ SINYAL     : ▂▄▆█ terhubung
+  ▸ STATUS     : ██████████████░░  building...
+  ▸ SINYAL     : ▂▄▆█  terhubung ke server
 ◆──────────────────────────────────────────────◆
 ```
-
-</div>
 
 <br clear="right"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&width=560&lines=◈+ESP32+%2B+MQTT+%2B+React+%3D+smart+garden+◈;◈+soldering+jam+2+malem+☕+◈;◈+sensor+offline...+cek+kabel+dulu+woy+◈;◈+lofi+beats+%2B+dark+mode+%2B+kopi+hitam+◈;◈+works+di+komputer+gw™+◈;◈+git+commit+-m+fix+semuanya+◈" />
-
-</div>
-
-<br>
-
-<div align="center">
 <img src="https://kelompok6.my.id/api/waktu" alt="Waktu WITA" />
+&nbsp;&nbsp;
+<img src="https://kelompok6.my.id/api/badge" alt="Server Status" />
+
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a1a,100:0a0a1a&height=4&section=header&stroke=00d4ff&strokeWidth=1" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&width=600&lines=◈+ESP32+%2B+MQTT+%2B+React+%3D+smart+garden+◈;◈+soldering+jam+2+malem+☕+◈;◈+sensor+offline...+cek+kabel+dulu+woy+◈;◈+lofi+beats+%2B+dark+mode+%2B+kopi+hitam+◈;◈+works+di+komputer+gw™+◈;◈+git+commit+-m+%22fix+semuanya%22+◈;◈+bukan+bug%2C+itu+fitur+◈;◈+deadline+besok%3F+santai+dulu+◈" />
+</div>
 
-## ⟨ MODE VIBE CODING ⟩
+---
+
+## ⟨ 🎧 VIBE CODING ⟩
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80" />
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  SYS://vibe.exe                                  ║
+║  SYS://vibe.exe              [running]           ║
 ║  ─────────────────────────────────────────────   ║
 ║  🎵 NOW_PLAYING  : Lo-Fi Hip Hop Radio           ║
-║  🕐 TIMESTAMP    : 02:47 WIB / deep night        ║
+║  🕐 TIMESTAMP    : 02:47 WITA / deep night       ║
 ║  ☕ FUEL_LEVEL   : ████████░░  3 cangkir kopi    ║
-║  💻 OUTPUT_RATE  : unknown  (siapa yang ngitung) ║
-║  🐛 BUGS_FIXED   : 2    BUGS_CREATED : 5        ║
+║  💻 OUTPUT_RATE  : ??? baris  (siapa yg ngitung) ║
+║  🐛 BUGS_FIXED   : 2    |  BUGS_CREATED  : 5   ║
 ║  ─────────────────────────────────────────────   ║
 ║  > "gelap. headphone. kopi. this is the way."   ║
 ╚══════════════════════════════════════════════════╝
 ```
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a1a,100:0a0a1a&height=4&section=header&stroke=a855f7&strokeWidth=1" />
+---
 
-## ⟨ TECH STACK ⟩
+## ⟨ ⚡ TECH STACK ⟩
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=initializing+modules...;import+React+from+'react';+✓;const+mqtt+%3D+require('mqtt');+✓;%23include+%3CArduino.h%3E+✓;system+ready." />
+
+<br>
 
 **◈ Frontend**
 
@@ -73,6 +77,7 @@
 ![Vite](https://img.shields.io/badge/Vite-a855f7?style=for-the-badge&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-7c3aed?style=for-the-badge&logo=redux&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-f472b6?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-00d4ff?style=for-the-badge&logo=tailwind-css&logoColor=0a0a1a)
 
 **◈ Backend**
 
@@ -84,20 +89,25 @@
 **◈ IoT & Infra**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00ff88?style=for-the-badge&logo=arduino&logoColor=0a0a1a)
+![C++](https://img.shields.io/badge/C++-f472b6?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-a855f7?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-00d4ff?style=for-the-badge&logo=mariadb&logoColor=0a0a1a)
 ![Linux](https://img.shields.io/badge/Linux-f59e0b?style=for-the-badge&logo=linux&logoColor=0a0a1a)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-f97316?style=for-the-badge&logo=cloudflare&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-00d4ff?style=for-the-badge&logo=mariadb&logoColor=0a0a1a)
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,php,js,cpp,linux,git,mysql,arduino&theme=dark&perline=10" />
 
+<br><br>
+
+<img src="https://kelompok6.my.id/api/skills" alt="Skill Bars" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a1a,100:0a0a1a&height=4&section=header&stroke=00ff88&strokeWidth=1" />
+---
 
-## ⟨ PROYEK : SMART GARDEN ⟩
+## ⟨ 🌱 PROYEK UTAMA ⟩
 
 <div align="center">
 
@@ -108,37 +118,41 @@
 ```
 [ ARSITEKTUR SISTEM ]
 
-ESP32 ──── DHT11      (suhu & kelembaban udara)
-     ├──── DS18B20    (suhu air)
-     ├──── Soil Sensor (kelembaban tanah)
-     ├──── Relay       (pompa air)
+ESP32 ──── DHT11       (suhu & kelembaban udara)
+     ├──── DS18B20     (suhu air)
+     ├──── Soil Sensor  (kelembaban tanah)
+     ├──── Relay        (pompa air)
      └──── MQTT/TCP ──── Mosquitto Broker
-                     ├──── Node.js API ──── MariaDB
-                     └──── React Dashboard (WSS realtime)
+                      ├──── Node.js API ──── MariaDB
+                      └──── React Dashboard (WSS realtime)
 ```
 
 <div align="center">
 
-🔗 **Live →** [kelompok6.my.id](https://kelompok6.my.id)
+![Live](https://img.shields.io/badge/LIVE-kelompok6.my.id-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=0a0a1a)
+![ESP32](https://img.shields.io/badge/Hardware-ESP32-00ff88?style=for-the-badge&logo=espressif&logoColor=0a0a1a)
+![MQTT](https://img.shields.io/badge/Protocol-MQTT-a855f7?style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a1a,100:0a0a1a&height=4&section=header&stroke=f472b6&strokeWidth=1" />
+---
 
-## ⟨ STATISTIK ⟩
+## ⟨ 📊 STATISTIK ⟩
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adri158&show_icons=true&theme=dark&hide_border=true&title_color=00d4ff&icon_color=a855f7&text_color=94a3b8&bg_color=0a0a1a" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri158&layout=compact&theme=dark&hide_border=true&title_color=00d4ff&text_color=94a3b8&bg_color=0a0a1a" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adri158&show_icons=true&theme=dark&hide_border=true&title_color=00d4ff&icon_color=a855f7&text_color=94a3b8&bg_color=0a0a1a&ring_color=00d4ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri158&layout=compact&theme=dark&hide_border=true&title_color=00d4ff&text_color=94a3b8&bg_color=0a0a1a" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adri158&theme=dark&hide_border=true&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&background=0a0a1a&sideLabels=94a3b8&dates=475569" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adri158&theme=dark&hide_border=true&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&background=0a0a1a&sideLabels=94a3b8&dates=475569&stroke=1e3a5f" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a1a,100:0a0a1a&height=4&section=header&stroke=00d4ff&strokeWidth=1" />
+---
 
-## ⟨ AKTIVITAS ⟩
+## ⟨ 📈 AKTIVITAS ⟩
 
 <div align="center">
 
@@ -146,7 +160,9 @@ ESP32 ──── DHT11      (suhu & kelembaban udara)
 
 </div>
 
-## ⟨ KONTRIBUSI 3D ⟩
+---
+
+## ⟨ 🌐 KONTRIBUSI 3D ⟩
 
 <div align="center">
 
@@ -154,7 +170,9 @@ ESP32 ──── DHT11      (suhu & kelembaban udara)
 
 </div>
 
-## ⟨ RINGKASAN ⟩
+---
+
+## ⟨ 🗃️ RINGKASAN ⟩
 
 <div align="center">
 
@@ -167,9 +185,9 @@ ESP32 ──── DHT11      (suhu & kelembaban udara)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a1a,100:0a0a1a&height=4&section=header&stroke=a855f7&strokeWidth=1" />
+---
 
-## ⟨ KONTRIBUSI ⟩
+## ⟨ 🐍 KONTRIBUSI ⟩
 
 <div align="center">
 
@@ -181,7 +199,9 @@ ESP32 ──── DHT11      (suhu & kelembaban udara)
 
 </div>
 
-## ⟨ HUMOR DEV ⟩
+---
+
+## ⟨ 😂 HUMOR DEV ⟩
 
 <div align="center">
 
@@ -189,7 +209,9 @@ ESP32 ──── DHT11      (suhu & kelembaban udara)
 
 </div>
 
-## ⟨ TROFI ⟩
+---
+
+## ⟨ 🏆 TROFI ⟩
 
 <div align="center">
 
@@ -197,9 +219,13 @@ ESP32 ──── DHT11      (suhu & kelembaban udara)
 
 </div>
 
-<br>
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3500&pause=500&color=475569&center=true&vCenter=true&width=500&lines=thanks+for+visiting+◈;keep+building%2C+keep+shipping+◈;see+you+on+the+next+commit+◈" />
+
+<br>
 
 ![Pengunjung](https://komarev.com/ghpvc/?username=Adri158&color=00d4ff&style=for-the-badge&label=PENGUNJUNG)
 
@@ -209,6 +235,6 @@ ESP32 ──── DHT11      (suhu & kelembaban udara)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d0d2e,100:1a0050&height=120&section=footer&stroke=a855f7&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:0d0d2e,100:130030&height=130&section=footer&stroke=a855f7&strokeWidth=2" />
 
 </div>
