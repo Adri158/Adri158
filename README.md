@@ -111,9 +111,11 @@
 
 <div align="center">
 
-[![smart-garden](https://github-readme-stats.vercel.app/api/pin/?username=Adri158&repo=smart-garden&theme=dark&hide_border=true&icon_color=00d4ff&title_color=00d4ff&bg_color=0a0a1a&border_color=1e3a5f)](https://github.com/Adri158/smart-garden)
+<a href="https://kelompok6.my.id">
+  <img src="https://kelompok6.my.id/api/project-card" alt="Smart Garden Live" />
+</a>
 
-</div>
+<br><br>
 
 ```
 [ ARSITEKTUR SISTEM ]
@@ -126,8 +128,6 @@ ESP32 ──── DHT11       (suhu & kelembaban udara)
                       ├──── Node.js API ──── MariaDB
                       └──── React Dashboard (WSS realtime)
 ```
-
-<div align="center">
 
 ![Live](https://img.shields.io/badge/LIVE-kelompok6.my.id-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=0a0a1a)
 ![ESP32](https://img.shields.io/badge/Hardware-ESP32-00ff88?style=for-the-badge&logo=espressif&logoColor=0a0a1a)
