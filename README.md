@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" />
 
 <div>
 
@@ -49,8 +49,6 @@
 
 > *"coding paling enak itu malem-malem, gelap, headphone on, kopi di meja"*
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
-
 </div>
 
 ---
@@ -59,13 +57,19 @@
 
 <div align="center">
 
-| Layer | Teknologi |
-|---|---|
-| 🖥️ Frontend | React · Vite · Redux · Chart.js |
-| 🔧 Backend | Node.js · Laravel · PHP · Express |
-| 📡 IoT | ESP32 · Arduino · MQTT · Mosquitto |
-| 🗄️ Database | MariaDB · MySQL |
-| 🏗️ Infrastruktur | Linux · Apache · Cloudflare Tunnel |
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 <br>
 
@@ -120,6 +124,16 @@ ESP32 ──── DHT11 (suhu & kelembaban udara)
 
 ---
 
+## 🌐 Kontribusi 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adri158/Adri158/output/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+---
+
 ## 🗃️ Ringkasan
 
 <div align="center">
@@ -142,6 +156,16 @@ ESP32 ──── DHT11 (suhu & kelembaban udara)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+---
+
+## 😂 Humor Dev
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%2322d3ee&aColor=%2394a3b8&borderColor=%231e3a5f&bgColor=%230d1117" alt="Jokes Card" />
+
+</div>
 
 ---
 
