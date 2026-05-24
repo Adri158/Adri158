@@ -1,0 +1,141 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:1e3a5f&height=150&section=header&text=adri158&fontSize=60&fontColor=22d3ee&animation=blinking&fontAlignY=55&desc=IoT%20%7C%20Embedded%20%7C%20Web&descColor=64748b&descSize=16&descAlignY=80" />
+
+</div>
+
+<br>
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+<div>
+
+```
+╔═══════════════════════════════════════════════╗
+║  > whoami                                     ║
+║    Untung Adriansyah — SMK Siswa & Developer  ║
+║  > location                                   ║
+║    Indonesia 🇮🇩                               ║
+║  > currently_hacking_on                       ║
+║    🌱 Smart Garden IoT Dashboard              ║
+║  > status                                     ║
+║    [████████████░░░░] building...             ║
+╚═══════════════════════════════════════════════╝
+```
+
+</div>
+
+<br clear="right"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=ESP32+%2B+MQTT+%2B+React+%3D+smart+garden+%F0%9F%8C%B1;soldering+at+2am+%E2%98%95%F0%9F%8E%B5;sensor+offline...+cek+kabel+dulu+woy;lofi+beats+%2B+dark+mode+%2B+kopi+hitam;it+works+on+my+machine%E2%84%A2;git+commit+-m+%22fix+everything%22" alt="Typing SVG" />
+</p>
+
+---
+
+## 🎧 Vibe Coding Mode
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  🎵 Now vibing to: Lo-Fi Hip Hop Radio      │
+│  🕐 02:47 AM                                │
+│  ☕ Coffee count: 3                         │
+│  💻 Lines written tonight: who knows        │
+│  🐛 Bugs fixed: 2   Bugs created: 5        │
+└─────────────────────────────────────────────┘
+```
+
+> *"coding paling enak itu malem-malem, gelap, headphone on, kopi di meja"*
+
+</div>
+
+---
+
+## ⚡ Stack
+
+<div align="center">
+
+| Layer | Tech |
+|---|---|
+| 🖥️ Frontend | React · Vite · Redux · Chart.js |
+| 🔧 Backend | Node.js · Laravel · PHP · Express |
+| 📡 IoT | ESP32 · Arduino · MQTT · Mosquitto |
+| 🗄️ Database | MariaDB · MySQL |
+| 🏗️ Infra | Linux · Apache · Cloudflare Tunnel |
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,php,js,cpp,linux,git,mysql,arduino&theme=dark" />
+
+</div>
+
+---
+
+## 🌱 Project: Smart Garden
+
+<div align="center">
+
+[![smart-garden](https://github-readme-stats.vercel.app/api/pin/?username=Adri158&repo=smart-garden&theme=dark&hide_border=true&icon_color=22d3ee&title_color=22d3ee)](https://github.com/Adri158/smart-garden)
+
+</div>
+
+```
+ESP32 ──── DHT11 (suhu & kelembaban)
+     ├──── DS18B20 (suhu air)
+     ├──── Soil Sensor (kelembaban tanah)
+     ├──── Relay (pompa air)
+     └──── MQTT TCP ──── Mosquitto Broker
+                    ├──── Node.js API ──── MariaDB
+                    └──── React Dashboard (real-time WSS)
+```
+
+🔗 Live: [kelompok6.my.id](https://kelompok6.my.id)
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Adri158&show_icons=true&theme=dark&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri158&layout=compact&theme=dark&hide_border=true&title_color=22d3ee&text_color=94a3b8&bg_color=0d1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adri158&theme=dark&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&background=0d1117" />
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚙️ Untuk aktifin snake, buat GitHub Action di repo ini → [Cara](https://github.com/Platane/snk)
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Adri158&theme=darkhub&no-frame=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adri158&color=22d3ee&style=flat-square&label=views)
+
+*built with ☕ + 🎧 at 2am*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=100&section=footer" />
+
+</div>
