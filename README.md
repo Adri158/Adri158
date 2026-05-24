@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d0d2e,60:130030,100:0a0a1a&height=220&text=ADRI158&fontSize=82&fontColor=00d4ff&animation=twinkling&fontAlignY=62&desc=◈%20IoT%20◈%20Embedded%20◈%20Web%20◈&descColor=a855f7&descSize=20&descAlignY=80&stroke=00d4ff&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d0d2e,60:130030,100:0a0a1a&height=220&text=ADRI&fontSize=82&fontColor=00d4ff&animation=twinkling&fontAlignY=62&desc=◈%20IoT%20◈%20Embedded%20◈%20Web%20◈&descColor=a855f7&descSize=20&descAlignY=80&stroke=00d4ff&strokeWidth=2" />
 
 </div>
 
@@ -13,7 +13,7 @@
   ▸ IDENTITAS  : Untung Adriansyah
   ▸ KELAS      : Siswa SMK & Developer
   ▸ LOKASI     : Indonesia 🇮🇩
-  ▸ PROYEK     : Smart Garden IoT Dashboard
+  ▸ PROJEK     : Smart Garden IoT Dashboard
   ▸ STATUS     : ██████████████░░  building...
   ▸ SINYAL     : ▂▄▆█  terhubung ke server
 ◆──────────────────────────────────────────────◆
@@ -49,7 +49,7 @@
 ║  ─────────────────────────────────────────────   ║
 ║  🎵 NOW_PLAYING  : Lo-Fi Hip Hop Radio           ║
 ║  🕐 TIMESTAMP    : 02:47 WITA / deep night       ║
-║  ☕ FUEL_LEVEL   : ████████░░  3 cangkir kopi    ║
+║  ☕ FUEL_LEVEL   : ████████░░  3 gelas air    ║
 ║  💻 OUTPUT_RATE  : ??? baris  (siapa yg ngitung) ║
 ║  🐛 BUGS_FIXED   : 2    |  BUGS_CREATED  : 5   ║
 ║  ─────────────────────────────────────────────   ║
@@ -107,7 +107,7 @@
 
 ---
 
-## ⟨ 🌱 PROYEK UTAMA ⟩
+## ⟨ 🌱 PROJEK UTAMA ⟩
 
 <div align="center">
 
@@ -142,7 +142,7 @@ ESP32 ──── DHT11       (suhu & kelembaban udara)
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adri158&show_icons=true&theme=dark&hide_border=true&title_color=00d4ff&icon_color=a855f7&text_color=94a3b8&bg_color=0a0a1a&ring_color=00d4ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri158&layout=compact&theme=dark&hide_border=true&title_color=00d4ff&text_color=94a3b8&bg_color=0a0a1a" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri&layout=compact&theme=dark&hide_border=true&title_color=00d4ff&text_color=94a3b8&bg_color=0a0a1a" />
 
 <br>
 
