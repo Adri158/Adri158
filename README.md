@@ -10,9 +10,9 @@
 
 ```
 ◆──────────────────────────────────────────────◆
-  ▸ NAMA  : Untung Adriansyah
-  ▸ IDENTITAS      : Siswa SMK
-  ▸ ASAL     : Indonesia
+  ▸ NAMA       : Untung Adriansyah
+  ▸ IDENTITAS  : Siswa SMK
+  ▸ ASAL       : Indonesia
   ▸ PROJEK     : Smart Garden IoT Dashboard ✅
   ▸ STATUS     : ████████████████  selesai!
   ▸ SINYAL     : ▂▄▆█  terhubung ke server
