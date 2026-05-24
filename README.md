@@ -49,6 +49,8 @@
 
 > *"coding paling enak itu malem-malem, gelap, headphone on, kopi di meja"*
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
+
 </div>
 
 ---
@@ -108,6 +110,31 @@ ESP32 ──── DHT11 (suhu & kelembaban)
 
 ---
 
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adri158&theme=react-dark&hide_border=true&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=1e3a5f" />
+
+</div>
+
+---
+
+## 🗃️ Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adri158&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adri158&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adri158&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adri158&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adri158&theme=github_dark&utcOffset=7" />
+
+</div>
+
+---
+
 ## 🐍 Contributions
 
 <picture>
@@ -115,8 +142,6 @@ ESP32 ──── DHT11 (suhu & kelembaban)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Adri158/Adri158/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-> ⚙️ Untuk aktifin snake, buat GitHub Action di repo ini → [Cara](https://github.com/Platane/snk)
 
 ---
 
