@@ -10,11 +10,11 @@
 
 ```
 ◆──────────────────────────────────────────────◆
-  ▸ IDENTITAS  : Untung Adriansyah
-  ▸ KELAS      : Siswa SMK & Developer
-  ▸ LOKASI     : Indonesia 🇮🇩
+  ▸ NAMA  : Untung Adriansyah
+  ▸ IDENTITAS      : Siswa SMK
+  ▸ ASAL     : Indonesia
   ▸ PROJEK     : Smart Garden IoT Dashboard ✅
-  ▸ STATUS     : ████████████████  complete!
+  ▸ STATUS     : ████████████████  selesai!
   ▸ SINYAL     : ▂▄▆█  terhubung ke server
 ◆──────────────────────────────────────────────◆
 ```
@@ -49,7 +49,7 @@
 ║  ─────────────────────────────────────────────   ║
 ║  🎵 NOW_PLAYING  : Lo-Fi Hip Hop Radio           ║
 ║  🕐 TIMESTAMP    : 02:47 WITA / deep night       ║
-║  ☕ FUEL_LEVEL   : ████████░░  3 gelas air    ║
+║  ☕ FUEL_LEVEL   : ████████░░  3 gelas kopi    ║
 ║  💻 OUTPUT_RATE  : ??? baris  (siapa yg ngitung) ║
 ║  🐛 BUGS_FIXED   : 2    |  BUGS_CREATED  : 5   ║
 ║  ─────────────────────────────────────────────   ║
