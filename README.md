@@ -13,8 +13,8 @@
   ▸ IDENTITAS  : Untung Adriansyah
   ▸ KELAS      : Siswa SMK & Developer
   ▸ LOKASI     : Indonesia 🇮🇩
-  ▸ PROJEK     : Smart Garden IoT Dashboard
-  ▸ STATUS     : ██████████████░░  building...
+  ▸ PROJEK     : Smart Garden IoT Dashboard ✅
+  ▸ STATUS     : ████████████████  complete!
   ▸ SINYAL     : ▂▄▆█  terhubung ke server
 ◆──────────────────────────────────────────────◆
 ```
